@@ -2,10 +2,10 @@ echo -e " please wait updating "
 
 cd $home
 
-rm -rf ids-inf
-git clone https://github.com/DRACULA-HACK/ids-inf
+rm -rf ID-Info
+git clone https://github.com/VrajeshBotz/ID-Info
 
-cd ids-inf
+cd ID-Info
 
 python3 -m pip install -r requirements.txt
 
