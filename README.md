@@ -7,7 +7,7 @@ and it also have ip phishing and tracking options
 and fb , insta information gathering .
 This tool is created by shell script and python 
 
-<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20230321_215629.jpg" alt="alternatetext">
+<img src="https://github.com/VrajeshBotz/ids-inf/blob/main/IMG_20230321_215629.jpg" alt="alternatetext">
 
 #
 # Features
@@ -40,7 +40,7 @@ This tool is created by shell script and python
 ` gem install lolcat `
 
 #
-`git clone https://github.com/DRACULA-HACK/ids-inf `
+`git clone https://github.com/VrajeshBotz/ids-inf `
 #
 * `cd ids-inf `
 #
@@ -82,6 +82,6 @@ master-hack
 
 #
 
-<img src="https://github.com/DRACULA-HACK/ids-inf/blob/main/IMG_20221219_104937.jpg" alt="alternatetext">
+<img src="https://github.com/VrajeshBotz/ids-inf/blob/main/IMG_20221219_104937.jpg" alt="alternatetext">
 
 #
