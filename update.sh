@@ -2,10 +2,10 @@ echo -e " please wait updating "
 
 cd $home
 
-rm -rf ID-Info
-git clone https://github.com/VrajeshBotz/ID-Info
+rm -rf ids-inf
+git clone https://github.com/VrajeshBotz/ids-inf
 
-cd ID-Info
+cd ids-inf
 
 python3 -m pip install -r requirements.txt
 
